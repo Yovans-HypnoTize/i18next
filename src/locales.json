@@ -1,0 +1,37 @@
+{
+    "en": {
+        "helloMaster": "Hello Master Yovan",
+        "imHereForYou": {
+            "yogesh":"<1>{{YOVAN}}</1>. Always I'm with you",
+            "yuvaraj":"<1>{{YOVAN}}</1>. I do always with you"
+        }
+    },
+    "fr": {
+        "helloMaster": "Bonjour Maître Yovan",
+        "imHereForYou": {
+            "yogesh":"<1>{{YOVAN}}</1>. Je suis toujours avec toi",
+            "yuvaraj":"<1>{{YOVAN}}</1>. je fais toujours avec toi"
+        }
+    },
+    "ja": {
+        "helloMaster": "こんにちはマスターヨヴァン",
+        "imHereForYou": {
+            "yogesh":"<1>{{YOVAN}}</1>。いつも私はあなたと一緒にいます",
+            "yuvaraj":"<1>{{YOVAN}}</1>。私はいつもあなたと一緒にいます"
+        }
+    },
+    "hi": {
+        "helloMaster": "नमस्ते मास्टर योवन",
+        "imHereForYou": {
+            "yogesh":"<1>{{YOVAN}}</1>. मैं हमेशा तुम्हारे साथ हूं",
+            "yuvaraj":"<1>{{YOVAN}}</1>. मैं हमेशा तुम्हारे साथ हूं"
+        }
+    },
+    "ar": {
+        "helloMaster": "مرحبا أستاذ يوفان",
+        "imHereForYou": {
+            "yogesh":"<1>{{YOVAN}}</1>. دائما أنا معك",
+            "yuvaraj":"<1>{{YOVAN}}</1>. أفعل دائما معك"
+        }
+    }
+}
